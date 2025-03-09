@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+
+}
+#likebtn, #dislikebtn{
+    background-color: #949494;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+
+}
+#submit{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#clear{
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#commentbox{
+    width: 50%;
+    height: 100px;
+    margin: 0 auto;
+    display: block;
+}
+
+
+ p {
+    font-size: 16px;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #e0e0e0;
+    display: inline-block;
+    max-width: 80%;
+}
+
